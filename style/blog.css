@@ -10,3 +10,7 @@
     background-color: magenta;
     width: 30%;
 }
+
+img{
+    border: 2px dashed tomato;
+}
